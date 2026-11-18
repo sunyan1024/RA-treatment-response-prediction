@@ -1,0 +1,14 @@
+{
+  "model_id": "multimodal_v1",
+  "format": "pytorch",
+  "directory": "pth",
+  "download_url": "https://pan.baidu.com/s/5fw4WoWDQetc2hS4LvNa7zQ?#list/path=%2FRA-treatment-response-prediction%2Fpytorch_deployment",
+  "extraction_code_required": false,
+  "sha256": {
+    "fold_1.pth": "e9ddfe55ce0129ee4a6972ff2199ea08f59758501206414679cf2af8c8790e3b",
+    "fold_2.pth": "560b2d85da7e0910beda68a619314c0f2512273424d95308895900a808073b3d",
+    "fold_3.pth": "d90257ed3071d307a9fe2f81517ae1bb189b8f73f864a52a1622357b2bf832ef",
+    "fold_4.pth": "67b99335c4b20a20c0b74602c35ed4405f925340e05e87963cdc45d2407ee8b4",
+    "fold_5.pth": "1374b8798d44abd2d288039f7753b06b1157971d7a68c328ff9d27322ee5645e"
+  }
+}
